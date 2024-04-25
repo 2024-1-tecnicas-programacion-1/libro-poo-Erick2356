@@ -39,5 +39,15 @@ public class Libro {
      
     }
 
+    public String getTitulo() {
+        return titulo;
+    }
+    public String getAutor() {
+        return autor;
+    } 
+    public String getGenero() {
+        return genero;
+    }
+
 
 }
